@@ -1,5 +1,11 @@
 # Herokavis
 
+Fork of the original Herokavis, has the buildpacks installed and commited for ease of use.
+Only has the nodejs buildpack enabled for now
+
+This repo should be de-git'd archived up and hosted on S3, or tagged and pushed to github so you can use the github releases tarballs.
+
+
 Some wierd mashup of heroku buildpacks and travis.yml, exists for $REASONS
 
 
