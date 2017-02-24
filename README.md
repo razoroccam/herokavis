@@ -5,6 +5,9 @@ Only has the nodejs buildpack enabled for now
 
 This repo should be de-git'd archived up and hosted on S3, or tagged and pushed to github so you can use the github releases tarballs.
 
+For now this repo's releases are tagged with the `r` prefix to seperate them from upstream tags, e.g `r0.0.1`
+
+-----
 
 Some wierd mashup of heroku buildpacks and travis.yml, exists for $REASONS
 
